@@ -4,11 +4,18 @@
 
 Стэк:
 
-- ReactJS + хуки (useState, useEffect, useMemo, useDispatch, свои хуки не создавал)
-- React Router (для того, чтобы максимально быстро без лишних ререндеров переходить в корзину)
+- ReactJS + хуки (useState, useEffect, useMemo, useDispatch)
+- React Router
 - Redux (вся логика построена на Store, Reducers и Actions)
 - Redux thunk (используется)
 - json-server (долго настраивал)
 - Axios (для получения пицц из базы данных)
 - Classnames (весь JSX на них)
+
 - Проект выложил на Heroku, использовал Node.js
+https://vzs-react-redux-pizzashop.herokuapp.com/
+
+<img width="1836" alt="Снимок экрана 2021-03-25 в 23 38 40" src="https://user-images.githubusercontent.com/72495167/112540564-635b5080-8dc3-11eb-8132-3e4b95104b30.png">
+
+<img width="1843" alt="Снимок экрана 2021-03-25 в 23 38 49" src="https://user-images.githubusercontent.com/72495167/112540579-66564100-8dc3-11eb-81c9-4b0109e91e65.png">
+
