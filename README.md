@@ -7,10 +7,9 @@
 - ReactJS + хуки (useState, useEffect, useMemo, useDispatch)
 - React Router
 - Redux (вся логика построена на Store, Reducers и Actions)
-- Redux thunk (используется)
-- json-server (долго настраивал)
+- Redux thunk
+- json-server
 - Axios (для получения пицц из базы данных)
-- Classnames (весь JSX на них)
 
 - Проект выложил на Heroku, использовал Node.js
 https://vzs-react-redux-pizzashop.herokuapp.com/
